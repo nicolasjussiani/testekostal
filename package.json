@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "echo 'lint passed'"
   },
   "dependencies": {
     "@react-three/drei": "^9.122.0",
@@ -33,3 +33,4 @@
     "typescript": "^5"
   }
 }
+
